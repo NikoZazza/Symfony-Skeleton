@@ -18,10 +18,7 @@ class DefaultController extends UtilityController {
      * Home page
      *
      * @param Request $request
-     *
      * @Route("/", name="index", methods={"GET"})
-     *
-     *
      * @return RedirectResponse|\Symfony\Component\HttpFoundation\Response
      */
     public function index(Request $request) {
