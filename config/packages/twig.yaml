@@ -1,0 +1,8 @@
+twig:
+  paths:
+    "%kernel.project_dir%/src/Resources/view": App
+  debug: '%kernel.debug%'
+  strict_variables: '%kernel.debug%'
+  cache: false
+  globals:
+    limit_row: '%limit.row%'

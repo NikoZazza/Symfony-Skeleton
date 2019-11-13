@@ -1,0 +1,15 @@
+parameters:
+  database.host: 127.0.0.1
+  database.port: ~
+  database.name: symfony-skeleton
+  database.user: root
+  database.password: ~
+
+  mailer.transport: smtp
+  mailer.host: ~
+  mailer.user: ~
+  mailer.password: ~
+  mailer.encryption: tls
+  mailer.port: 587
+
+  limit.row: 50
