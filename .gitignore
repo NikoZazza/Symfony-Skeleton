@@ -19,3 +19,5 @@
 ###< symfony/web-server-bundle ###
 parameters.yaml
 /.idea/
+composer.lock
+symfony.lock

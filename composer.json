@@ -6,6 +6,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "ext-json": "^1.6",
+        "doctrine/doctrine-migrations-bundle": "2.0.0",
         "friendsofsymfony/user-bundle": "~2.0",
         "incenteev/composer-parameter-handler": "^2.1",
         "nelmio/api-doc-bundle": "^3.4",
